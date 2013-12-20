@@ -1,0 +1,56 @@
+body, html {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.2em;
+}
+
+a { 
+    color: white; 
+    text-decoration: none; 
+}
+
+a:hover { 
+    color: #7B2E70; 
+}
+
+#wrapper {
+    width: 100%;
+    height: 100%;
+    background: #FDD355;
+    background: -moz-linear-gradient(45deg, #FDD355 0%, #FFE699 100%);
+    background: -webkit-gradient(linear, left bottom, right top, color-stop(0%,#FDD355), color-stop(100%,#FFE699));
+    background: -webkit-linear-gradient(45deg, #FDD355 0%,#FFE699 100%);
+    background: -o-linear-gradient(45deg, #FDD355 0%,#FFE699 100%);
+    background: -ms-linear-gradient(45deg, #FDD355 0%,#FFE699 100%);
+    background: linear-gradient(45deg, #FDD355 0%,#FFE699 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#FDD355', endColorstr='#FFE699',GradientType=1 );
+}
+
+#content {
+    width: 75%;
+    padding: 100px;
+}
+
+#content h1 a {
+    border-bottom: 3px solid white;
+}
+
+h1 {
+    line-height: 52px;
+    margin-top: 8px;
+    font-size: 130%;
+}
+
+p {
+    line-height: 40px;
+    margin-top: 8px;    
+    font-size: 100%;
+}
+
+p > a {
+    margin-right: 14px;
+}
