@@ -1,0 +1,62 @@
+==================================================================
+https://keybase.io/tijs
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://tijs.org
+  * I am tijs (https://keybase.io/tijs) on keybase.
+  * I have a public key with fingerprint CD80 9C12 F2FD 85FB BBBB  3CEC D854 5131 BE8F DD87
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "cd809c12f2fd85fbbbbb3cecd8545131be8fdd87",
+            "host": "keybase.io",
+            "key_id": "D8545131BE8FDD87",
+            "uid": "4d10fe619c152407047426915bf55200",
+            "username": "tijs"
+        },
+        "service": {
+            "hostname": "tijs.org",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1396904695,
+    "expire_in": 157680000,
+    "prev": "54067628f7c96f2276031a6f7cf1384514fb65a5391cb642908087a650539254",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owFNUV1IFGEU3U2zEiLTAiHpZ1KwNPvmf2ZDi21Tw6dl/SkTlp2Zb9ax3FlnxtXN
+DEOzRCtJfalQJJDQWiyUksBKKTJ9CyG1VQMjMgqTSMSsvhGD7svlnnvOufdym7dG
+WKKt73Kd+OCN8BXr6PPPgsV1PHapChNUKYjZqrCzcC3Jis8LNb+m+AzMhokSB3gR
+J2RCljhaFswgRYhgmqJxEhcgJ0sSx2KpWLGqmwpkI3h0mKaoCEOFW5EQ6ljn209w
+mQ7HGr98rUFJOJAhg6MhNEEBFlAsRTA8TgsyTRMAmEQdaj5PKURsQynRsepUDCEB
+RYTmvubY/7ppquZFGr+mGqqonkNosWH4babICPpNVgUU3Ot6t6D4JHQvEgSgpiuq
+D7PhiCkaimmIkzzDA4rh6VQMVvoVDboVk0GzDAdQmGNgAFnSFGBYhuBkVuQZmSBY
+BpC4h0GljJMcOpySBYb20CSPiwJDETzgAMd6GBogiKApzLyozKdiNgqt6fEiS13x
++jxGuQax6gZrQqTFGm2J2rjB/JglekvMvz/2S5t+py/VDvZ3roZr3o92x2cmpvS0
+zJw8EtXqPKgAsffQ0NTuXvtMXN2e6x/zV9p79jUcHWs0Fh8VhBwVXa78HR23FgYe
+k2easp3nc4Z+XJuY/fDJtZl7M+YXj7VWhGLqxgNfRrodB9r7hpcai7q6iWQ24GpJ
+yHj6smk1vrDe/3D5Wziuk49P7qsLvrBZ90/X3GwreSKl5EzNksMZu+7kXWzLGskq
+PUWV1B6ehov2yw9ORyh7t2VPXp3gpeSi29/DF37OPCt8NTqlpayMz8eGQq7c+eDw
+cl79gCuwvez+17mOpMj0xoV7+s5LcYuvk5wT7FylpTnx7R+iYBLcBb32X/Jf
+=tPmo
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tijs
+
+==================================================================
