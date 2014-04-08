@@ -4,7 +4,7 @@ https://keybase.io/tijs
 
 I hereby claim:
 
-  * I am an admin of http://tijs.org
+  * I am an admin of http://www.tijs.org
   * I am tijs (https://keybase.io/tijs) on keybase.
   * I have a public key with fingerprint CD80 9C12 F2FD 85FB BBBB  3CEC D854 5131 BE8F DD87
 
@@ -20,16 +20,16 @@ To claim this, I am signing this object:
             "username": "tijs"
         },
         "service": {
-            "hostname": "tijs.org",
+            "hostname": "www.tijs.org",
             "protocol": "http:"
         },
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1396904695,
+    "ctime": 1396952086,
     "expire_in": 157680000,
-    "prev": "54067628f7c96f2276031a6f7cf1384514fb65a5391cb642908087a650539254",
-    "seqno": 4,
+    "prev": "8b90e2662af8a0949f84f64800f8f52ecddbef313f6bddfa57220051fbca7409",
+    "seqno": 6,
     "tag": "signature"
 }
 
@@ -37,21 +37,21 @@ with the aforementioned key, yielding the PGP signature:
 
 -----BEGIN PGP MESSAGE-----
 
-owFNUV1IFGEU3U2zEiLTAiHpZ1KwNPvmf2ZDi21Tw6dl/SkTlp2Zb9ax3FlnxtXN
-DEOzRCtJfalQJJDQWiyUksBKKTJ9CyG1VQMjMgqTSMSsvhGD7svlnnvOufdym7dG
-WKKt73Kd+OCN8BXr6PPPgsV1PHapChNUKYjZqrCzcC3Jis8LNb+m+AzMhokSB3gR
-J2RCljhaFswgRYhgmqJxEhcgJ0sSx2KpWLGqmwpkI3h0mKaoCEOFW5EQ6ljn209w
-mQ7HGr98rUFJOJAhg6MhNEEBFlAsRTA8TgsyTRMAmEQdaj5PKURsQynRsepUDCEB
-RYTmvubY/7ppquZFGr+mGqqonkNosWH4babICPpNVgUU3Ot6t6D4JHQvEgSgpiuq
-D7PhiCkaimmIkzzDA4rh6VQMVvoVDboVk0GzDAdQmGNgAFnSFGBYhuBkVuQZmSBY
-BpC4h0GljJMcOpySBYb20CSPiwJDETzgAMd6GBogiKApzLyozKdiNgqt6fEiS13x
-+jxGuQax6gZrQqTFGm2J2rjB/JglekvMvz/2S5t+py/VDvZ3roZr3o92x2cmpvS0
-zJw8EtXqPKgAsffQ0NTuXvtMXN2e6x/zV9p79jUcHWs0Fh8VhBwVXa78HR23FgYe
-k2easp3nc4Z+XJuY/fDJtZl7M+YXj7VWhGLqxgNfRrodB9r7hpcai7q6iWQ24GpJ
-yHj6smk1vrDe/3D5Wziuk49P7qsLvrBZ90/X3GwreSKl5EzNksMZu+7kXWzLGskq
-PUWV1B6ehov2yw9ORyh7t2VPXp3gpeSi29/DF37OPCt8NTqlpayMz8eGQq7c+eDw
-cl79gCuwvez+17mOpMj0xoV7+s5LcYuvk5wT7FylpTnx7R+iYBLcBb32X/Jf
-=tPmo
+owE1kWtIFFEUx2et3FrxQeJjK8imF8G2zczOzM4suJbtah+iSKUXwTaPe3dHbWe9
+O66tsh+CwALL/aJL9ckSKfBBFEQG0mOpRCnKSKUUyojA3rJ9zO4sdr5c7jm/8/+f
+c28yfxVhs8w0HKHHuuc6LRMPv8lE/f7J0g5S1tU46ekgm0D2gFo4CFAEaWGD9JCK
+KlCiQjOQgarAQdkMlwJwmmM52kXLQICqKrhJBxnSo2YHlpGlKHBqOs7hS0BTcda3
+wlf7hRqfL8u3ZgusSlMQ8DQ24RiWclOsm2V4keZkyHEMRZlgFKCwdAZg2tAao2TC
+QeJMTFOAOa9pu1Jta2tzmoRTR0HcF0G6oSt6M66EDCPiMRuNeCRLAjmwohGQtbCK
+d8YNMYCimh4mPTQmFUMzRWmXyIt4EIF3kOBsREMgoJkE5+YFCodpA2JYUpBFCjA8
+z0hQkCiRFaHAQp7FEBQgx+AnU2UAXbQL8rKqQolzM3g9joayIrlZSiTNrVrCOunB
+ToYUxJJRLRiWjFYEyMRFy6bVhMVG5K7JMX+NsK0r+v+XLGv9u2Pg1YiclK0ltRWp
+LyGUCJQiOzlyfmxo0XpuZ92nBjUdbZib6i+y9KHau+8PTXJlC1+L7VXXPqs/hvju
+nJ5LL2f3VhKe3fR8zfUC2+Nb0ynCu+tAfLAPzV8++k7NDPibu4r3MOO/kD0+21+0
+fXhoYPSkrW4wd8m5tflY6vbU8fb1wgv+wZ2FMnYm8/NN9b7M+OTmWLvthN/r70vf
+f535jZ5XeW30wWReMudJy4fOj57vW8qnNxQWNhUs907caHRl/MT4cuvo4NWN6WQ9
+ujC1WGGPhNbeQ/l/uk4Tz7xq5RJzKtHpGC4vSfcW1KfKH+W9tfpuPr3C9bRvO/wP
+=0OPm
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
